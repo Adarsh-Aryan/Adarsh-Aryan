@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/adarsh-aryan/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://adarsh-aryan.github.io/adarsh_portfolio)
+[![Linkedin Badge](https://img.shields.io/badge/-Adarsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-aryan/)](https://www.linkedin.com/in/adarsh-aryan/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Adarsh-green)](https://adarsh-aryan.github.io/adarsh_portfolio)
 
 
 I'm
