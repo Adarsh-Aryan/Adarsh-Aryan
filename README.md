@@ -2,8 +2,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-aryan/)](https://www.linkedin.com/in/adarsh-aryan/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Adarsh-green)](https://adarsh-aryan.github.io/Adarsh_Portfolio/)
-
 
 I'm
 MERN Stack Developer.
@@ -24,7 +22,6 @@ Languages and Tools:
 
 
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
